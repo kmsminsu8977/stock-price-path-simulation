@@ -1,0 +1,4 @@
+scenario_id,mean_terminal_price,p05_terminal_price,p95_terminal_price,down_barrier_touch_probability,average_max_drawdown
+ONE_YEAR_BASE,106.687929,75.698932,145.593621,0.2156,0.180324
+HIGH_VOL_BARRIER,104.935611,56.095732,173.235517,0.4288,0.307749
+SHORT_HORIZON,103.219971,83.209398,126.589564,0.164,0.119202
